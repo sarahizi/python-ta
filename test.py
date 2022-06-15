@@ -3,6 +3,8 @@ import unittest
 
 from src import app
 
+print("Hello World")
+
 class Test(unittest.TestCase):
     # def test_str_uppercase(self):
     #     """
